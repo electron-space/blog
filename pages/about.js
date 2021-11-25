@@ -10,7 +10,7 @@ export default function About() {
       </Head>
 
       <main>
-        <h1>About</h1>
+        <h1>Made by electron-space.</h1>
       </main>
     </div>
   );
